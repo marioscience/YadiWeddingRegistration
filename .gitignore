@@ -1,2 +1,5 @@
 .idea
 venv
+.client/yadiweddingregistration/.git/
+.client/yadiweddingregistration/.idea/
+.client/yadiweddingregistration/node_modules/
