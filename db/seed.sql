@@ -16,22 +16,22 @@ INSERT INTO users (first_name, last_name, phone, email, invitation_sent, passwor
 -- SELECT * FROM users;
 
 INSERT INTO gifts (picture, name, description)
-    VALUES ('static/licuadora_thumb.png', 'Licuadora', 'Color negro. Accero inoxidable.'),
-    ('static/tostadora_thumb.png', 'Tostadora', 'Color negro. Accero inoxidable.'),
-    ('static/plancha_thumb.png', 'Plancha', 'Color negro. Accero inoxidable.'),
-    ('static/microondaas_thumb.png', 'Microondas', 'Color negro. Accero inoxidable.'),
-    ('static/horno_thumb.png', 'Horno Eléctrico', 'Color negro. Accero inoxidable.'),
-    ('static/vajillas_thumb.png', '2 Juegos de Vajillas', 'Individuales'),
-    ('static/tabla_planchar_thumb.png', 'Tabla de Planchar', ''),
-    ('static/sabana_thumb.png', 'Juego de Sábana', 'Queen 60 x 74 in'),
-    ('static/vasos_thumb.png', 'Copas, Vasos y Cucharones', '2 Combos. Individuales.'),
-    ('static/cubiertos_thumb.png', 'Cubeterteria', 'Cucharas, Cubiertos, Juegos de Cuchillos.'),
-    ('static/paires_thumb.png', 'Paires','Juego de 3.'),
-    ('static/calderos_thumb.png', 'Juego de Calderos', 'En Teflón o Accero inoxidable'),
-    ('static/sarten_thumb.png', 'Juego de Sartenes.', 'En Teflón'),
-    ('static/ollas_thumb.png', 'Juego de Ollas', 'Acero inoxidable.'),
-    ('static/olla_presion_thumb.png', 'Olla de Presión', 'Acero inoxidable.'),
-    ('static/tanque_thumb.png', 'Tanque de Gas', '50 LB');
+    VALUES ('licuadora_thumb.png', 'Licuadora', 'Color negro. Accero inoxidable.'),
+    ('tostadora_thumb.png', 'Tostadora', 'Color negro. Accero inoxidable.'),
+    ('plancha_thumb.png', 'Plancha', 'Color negro. Accero inoxidable.'),
+    ('microondas_thumb.png', 'Microondas', 'Color negro. Accero inoxidable.'),
+    ('horno_thumb.png', 'Horno Eléctrico', 'Color negro. Accero inoxidable.'),
+    ('vajillas_thumb.png', '2 Juegos de Vajillas', 'Individuales.'),
+    ('tabla_planchar_thumb.png', 'Tabla de Planchar', ''),
+    ('sabana_thumb.png', 'Juego de Sábana', 'Queen 60 x 74 pulgadas.'),
+    ('vasos_thumb.png', 'Copas, Vasos y Cucharones', '2 Combos. Individuales.'),
+    ('cubiertos_thumb.png', 'Cubeterteria', 'Cucharas, Cubiertos, Juegos de Cuchillos.'),
+    ('paires_thumb.png', 'Paires','Juego de 3.'),
+    ('calderos_thumb.png', 'Juego de Calderos', 'En Teflón o Accero inoxidable.'),
+    ('sarten_thumb.png', 'Juego de Sartenes', 'En Teflón.'),
+    ('ollas_thumb.png', 'Juego de Ollas', 'Acero inoxidable.'),
+    ('olla_presion_thumb.png', 'Olla de Presión', 'Acero inoxidable.'),
+    ('tanque_thumb.png', 'Tanque de Gas', '50 LB.');
 
 -- DELETE FROM gifts;
 -- SELECT * FROM gifts;

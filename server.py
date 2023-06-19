@@ -1,8 +1,10 @@
 import os
 import psycopg2
 from flask import Flask
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 # TODO: setting for production deployment. set env variables for creds
 def get_db_connection():
