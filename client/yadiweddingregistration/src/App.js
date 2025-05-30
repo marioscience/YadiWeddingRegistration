@@ -11,7 +11,7 @@ function App() {
           <GiftList></GiftList>
           <p>Para nosotros es un placer que seas parte de este momento tan importante en nuestras vidas.</p>
           <p>Informaction de cuenta: </p>
-          <p>Banco Popular - Cuenta de ahorros<br/>828481366<br/>A nombre de Yadeiri L. Hernández/ Ordanell J. Mejía</p>
+          <p>Banco Popular - Cuenta de ahorros<br/>XXXXXXXXXXX<br/>A nombre de Yadeiri L. Hernández/ Ordanell J. Mejía</p>
         {/*<img src={logo} className="App-logo" alt="logo" />*/}
         {/*<p>*/}
         {/*  Edit <code>src/App.js</code> and save to reload.*/}
